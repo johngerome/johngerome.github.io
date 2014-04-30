@@ -1,0 +1,12 @@
+{
+  "name": "foundation-libsass-template",
+  "version": "0.0.1",
+  "description" : "Zurb Foundation 5 Framework with Grunts build script",
+  "devDependencies": {
+    "node-sass": "latest",
+    "grunt": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-uglify": "latest"
+  }
+}
